@@ -13,7 +13,7 @@ public class ExceptionExample {
 			
 			int c = a/b;
 			
-		} catch(AccessException e) {
+		} catch(ArithmeticException e) {
 			System.out.println("Cannot divide by zero");
 		}
 
