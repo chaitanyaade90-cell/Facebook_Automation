@@ -13,6 +13,7 @@ public class HashMap1 {
 		StudentAge.put(26, "Cavin");
 		
 		System.out.println(StudentAge.get("Insane"));
+		System.out.println(StudentAge.get("Cavin"));
 		
 		for(Integer key : StudentAge.keySet()) {
 			System.out.println(key + " " + StudentAge.get(key));
