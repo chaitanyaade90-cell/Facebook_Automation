@@ -21,14 +21,14 @@ public class Static1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Static1 s1 = new Static1();
-		s1.num=33;
-		s1.name="Carens";
-		s1.salary=90000;
 		
-		s1.Regression();
-		s1.Sanity();
-		s1.Smoke();
+		Static1.num=33;
+		Static1.name="Carens";
+		Static1.salary=90000;
+		
+		Static1.Regression();
+		Static1.Sanity();
+		Static1.Smoke();
 
 	}
 
