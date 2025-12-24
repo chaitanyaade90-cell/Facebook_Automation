@@ -1,0 +1,1 @@
+package Static_package_24_12_2025;
