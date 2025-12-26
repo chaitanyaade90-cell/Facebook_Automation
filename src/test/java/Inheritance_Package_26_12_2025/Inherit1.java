@@ -24,6 +24,7 @@ public class Inherit1 {
 		Collage c1 = new Liabrary();
 		
 		c1.Student();
+		
 
 	}
 
