@@ -1,0 +1,1 @@
+package Inheritance_27_12_2025;
