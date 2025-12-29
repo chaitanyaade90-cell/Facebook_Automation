@@ -22,7 +22,7 @@ public class MousehoverClick_menu3 {
 		
 		WebElement menu = d1.findElement(By.id("nav-link-accountList"));
 		
-		WebElement submenu = d1.findElement(By.xpath("//span[text()='Your orders]"));
+		WebElement submenu = d1.findElement(By.xpath("//span[text()='Your Orders']"));
 		
 		Actions act = new Actions(d1);
 		
